@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav1"
+    app:startDestination="@id/fragment4SameWay">
+    <fragment
+        android:id="@+id/fragment4SameWay"
+        android:name="com.example.sameway.fragment.Fragment4SameWay"
+        android:label="Fragment4SameWay" />
+</navigation>

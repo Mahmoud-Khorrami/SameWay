@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav1"
+        android:enabled="true"
+        android:icon="@drawable/my_rout"
+        android:title="مسیر های من"
+        android:visible="true" />
+
+    <item android:id="@+id/nav2"
+        android:enabled="true"
+        android:icon="@drawable/map"
+        android:title="نقشه"
+        android:visible="true"/>
+    <item
+        android:id="@+id/nav3"
+        android:enabled="true"
+        android:icon="@drawable/same_way"
+        android:title="هم مسیرها"
+        android:visible="true" />
+</menu>
